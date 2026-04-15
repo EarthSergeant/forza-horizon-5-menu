@@ -1,5 +1,6 @@
 # Forza Horizon 5 Utility Tool - Download Best SAFE FH5 Credits Bot & Car Spawner
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/94f9e8b2-6385-4bbe-96f5-7282ebf679ea" />
 Welcome to the ultimate resource for **Forza Horizon 5 Utility Tool** — the lightweight, script-powered, community-trusted automation tool that has dominated the FH5 modding scene for years. Whether you're a seasoned racer or a complete beginner stepping into the world of Forza customization for the first time, this guide is everything you need. FH5 Utility Tool delivers an unmatched blend of safety, simplicity, and raw power — all completely **free**. Read on to discover every feature, installation path, configuration tip, and community insight available in one place.
 
 ## [⬇️ Download Forza Horizon 5 Utility Tool](https://app.mediafire.com/folder/ue9ybd7eo78hj)
